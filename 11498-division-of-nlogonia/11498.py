@@ -1,3 +1,6 @@
+# 11498 - Division of Nlogonia
+# https://onlinejudge.org/external/114/11498.pdf
+
 while True:
 	k = int(input())
 	if k == 0:
