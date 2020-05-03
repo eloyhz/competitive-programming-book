@@ -1,8 +1,5 @@
 RFP #1
-{'Chevrolet\n': (20000.0, 0.5), 'Cadillac\n': (70000.0, 0.6666666666666666), 'Hyundai\n': (10000.0, 0.5), 'Lada\n': (6000.0, 0.16666666666666666)}
 Cadillac
 
 RFP #2
-{'Starbucks\n': (1.5, 1.0)}
 Starbucks
-
